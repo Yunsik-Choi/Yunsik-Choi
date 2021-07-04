@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Choi%20Yunsik&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Choi%20Yunsik&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunsik-Choi%2Fhit-counter&count_bg=%23FB3B3B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
