@@ -1,4 +1,4 @@
-## 🎈 Hi! I'm Yunsik 
+## 👋 Hi! I'm Yunsik 
 
 - 🌱 I’m currently learning `JAVA`, `Spring Boot`
 - 👩🏻‍🎓 I'm majoring in Application software, at Myongji University
