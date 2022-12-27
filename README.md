@@ -4,10 +4,6 @@
 - 👩🏻‍🎓 I'm majoring in Application software, at Myongji University
 - 📫 How to reach me: choiys0311@gmail.com
 
-### Activities
-
-- 🦁 LIKELION 8th (2020.3 ~ 2020.12)
-
 
 <!--
 **Yunsik-Choi/Yunsik-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
